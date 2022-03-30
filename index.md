@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+* Hobbies
+  * Bowling
+  * Surfing
 {% include 01-name.md %}
 
 <br>
